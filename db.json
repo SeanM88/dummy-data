@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "type": "single-elimination",
+    "teams": [
+        {
+            "seed": 1,
+            "team": "Patriots"
+        },
+        {
+            "seed": 2,
+            "team": "Rams"
+        },
+        {
+            "seed": 3,
+            "team": "Saints"
+        },
+        {
+            "seed": 4,
+            "team": "Chiefs"
+        },
+    ]
+}
